@@ -1,9 +1,9 @@
 {
     "project_name": "project_name",
     "repo_name":"repo_name",
-    "author_name": "Your Name",
-    "email": "Your email",
+    "author_name": "Marcin Spoczynski",
+    "email": "marcin@spoczynski.com",
     "description": "A short description of the project.",
-    "year": "Current year",
+    "year": "2013",
     "domain_name": "Domain name"
 }
